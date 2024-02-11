@@ -15,5 +15,5 @@ Hi, my name is Leonard Walujan from Manado, Indonesia. I'm a learner person that
 
 ## Reach me out
 - **LinkedIn:** [@walujan](https://www.linkedin.com/in/walujan)
-- **GitLab:** [@walujan](https://gitlab.com/walujan)
-- **Bitbucket:** [@walujan](https://bitbucket.org/walujan)
+- **Instagram:** [@walujanl](https://www.instagram.com/walujanl)
+- **Twitter:** [@walujanleonard](https://x.com/walujanleonard)

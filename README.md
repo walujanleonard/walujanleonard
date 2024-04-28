@@ -5,7 +5,7 @@
 Hi, my name is Leonard Walujan from Manado, Indonesia. I'm a learner person that currently focus on multimedia, network administration, and web development.
 
 - **Main Website:** [walujan.com](https://walujan.com)
-- **Email:** [leonard@walujan.com](mailto:leonard@walujan.com)
+- **Email:** [leonard@mail.walujan.com](mailto:leonard@mail.walujan.com)
 
 ## Programming Languages
 - JavaScript, TypeScript, PHP
